@@ -62,6 +62,11 @@ local ThemeManager = {} do
 		['Tokyo Night']   = { 6, { FontColor = "ffffff", MainColor = "191925", AccentColor = "6759b3", BackgroundColor = "16161f", OutlineColor = "323232" } },
 		['Ubuntu']        = { 7, { FontColor = "ffffff", MainColor = "3e3e3e", AccentColor = "e2581e", BackgroundColor = "323232", OutlineColor = "191919" } },
 		['Quartz']        = { 8, { FontColor = "ffffff", MainColor = "232330", AccentColor = "426e87", BackgroundColor = "1d1b26", OutlineColor = "27232f" } },
+		['Octohook']      = { 9, { FontColor = "ebebeb", MainColor = "232323", AccentColor = "ff87ff", BackgroundColor = "121212", OutlineColor = "3c3c3c" } },
+		['Nekocheat']     = { 10, { FontColor = "ffffff", MainColor = "121212", AccentColor = "e21e70", BackgroundColor = "121212", OutlineColor = "3c3c3c" } },
+		['Nekocheat Blue']= { 11, { FontColor = "ffffff", MainColor = "121212", AccentColor = "00f7ff", BackgroundColor = "121212", OutlineColor = "3c3c3c" } },
+		['Gamesense']     = { 12, { FontColor = "ebebeb", MainColor = "111111", AccentColor = "93b81a", BackgroundColor = "111111", OutlineColor = "2f2f2f" } },
+		['Twitch']        = { 13, { FontColor = "ebebeb", MainColor = "1f1f23", AccentColor = "a970ff", BackgroundColor = "0e0e0e", OutlineColor = "2d2d2d" } },
 	}
 
 	function ApplyBackgroundVideo(videoLink)
